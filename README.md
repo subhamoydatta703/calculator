@@ -9,9 +9,7 @@ This calculator can perform basic arithmetic operations like addition, subtracti
 - Responsive and user-friendly interface
 - Easy to use in any modern web browser
 
-## Demo
 
-![Calculator Screenshot](screenshot.png) <!-- optional, replace with your screenshot file -->
 
 ## How to Use
 
